@@ -1,0 +1,10 @@
+# MATLAB/Simulink cache files and build artifacts
+slprj/
+sfprj/
+*.slxc
+*.slx.part
+
+# Other common MATLAB temporary files
+*.asv
+*.mex*
+*.orig
